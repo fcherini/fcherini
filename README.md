@@ -3,7 +3,7 @@
 <p align="center">
 Desenvolvedora de Sites | UI/UX Designer.
 </p>
-
+[html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg)
 <h4 align="center">
 front-end 
   <svg viewBox="0 0 128 128">
