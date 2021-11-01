@@ -3,7 +3,6 @@
 <p align="center">
 Desenvolvedora de Sites | UI/UX Designer.
 </p>
-[html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg)
 <h4 align="center">
 front-end 
   <svg viewBox="0 0 128 128">
@@ -12,7 +11,6 @@ front-end
   <a href="fernanda-cherini.netlify.app">currículo</a> | figma <a href="https://www.figma.com/@fcherini">@fcherini</a>
 </h4>
 <p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
 </p>
 
 <br/>
