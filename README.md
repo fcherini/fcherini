@@ -1,4 +1,4 @@
-<h3 align="center"> Olá 👋</h3>
+<h3 align="center"> Olá, eu sou a Fernanda 👋</h3>
 
 <p align="center">
 Desenvolvedora de Sites | UI/UX Designer.
@@ -9,7 +9,7 @@ front-end
   <svg viewBox="0 0 128 128">
 <path fill="#E44D26" d="M9.032 2l10.005 112.093 44.896 12.401 45.02-12.387L118.968 2H9.032zm89.126 26.539l-.627 7.172L97.255 39H44.59l1.257 14h50.156l-.336 3.471-3.233 36.119-.238 2.27L64 102.609v.002l-.034.018-28.177-7.423L33.876 74h13.815l.979 10.919L63.957 89H64v-.546l15.355-3.875L80.959 67H33.261l-3.383-38.117L29.549 25h68.939l-.33 3.539z"></path>
 </svg>
-  <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+  <a href="fernanda-cherini.netlify.app">currículo</a> | figma <a href="https://www.figma.com/@fcherini">@fcherini</a>
 </h4>
 <p  align="center">
 <a href="https://akasrai.github.io/">https://akasrai.github.io</a>
@@ -17,9 +17,9 @@ front-end
 
 <br/>
 <h3 align="center">
-My Tech Stacks
+Habilidades e Tecnologias
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+  <p>HTML | CSS | SCSS | BOOTSTRAP | JAVSCRIPT | JQUERY | REACT</p>
 </h3>
